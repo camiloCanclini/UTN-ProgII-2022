@@ -1,1 +1,2 @@
 # UTN-ProgII-2022
+Hi sr developer, i will use this repo to save the TPs and exercises of Programacion II, currently I am coursing the programming technique in FRBB UTN, so I decided to upload my projects on github, to have a backup and also share codes of diferrent themes of programming, in this repo you 'll find algoritms and code of Python, Regex, pdfs, and others. I hope these resources help you. If you are looking others kind of exercises then chekout my others Repo's. Byee!
